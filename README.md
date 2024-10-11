@@ -1,16 +1,12 @@
-# cryptorank
+# crypto Wallet
+REST endpoint
+https://api.cryptorank.io/v1
+crypto wallet feature using Flutter with GetX for state management
+1.Balance Display: Show the user’s current crypto balance.
+2.Wallet Address Management: Display and manage wallet
+API Integration: Fetch wallet data using crypto API services  CryptoRank
+https://github.com/user-attachments/assets/025bad54-ee78-42f7-bfb0-5b186ad3c107
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
